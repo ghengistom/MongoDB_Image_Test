@@ -1,5 +1,9 @@
 # MongoDB_Image_Test
 
+To run:
+mongo
+node app.js
+
 
 URL's to use :
 
